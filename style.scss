@@ -1,0 +1,14 @@
+$coldark: rgb(54,45,45);
+$colprimary: rgb(0,255,85);
+$size: 200px;
+
+.wrapper__item{
+    border: 10px solid $coldark;
+    background-color: $colprimary;
+    width: $size;
+    height: $size;
+}
+
+.wrapper__item--cir{
+    border-radius: 50%;
+}

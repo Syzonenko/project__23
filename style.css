@@ -1,0 +1,11 @@
+.wrapper__item {
+  border: 10px solid #362d2d;
+  background-color: #00ff55;
+  width: 200px;
+  height: 200px;
+}
+
+.wrapper__item--cir {
+  border-radius: 50%;
+}
+/*# sourceMappingURL=style.css.map */
